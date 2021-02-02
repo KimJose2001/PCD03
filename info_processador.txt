@@ -1,0 +1,7 @@
+Todos os programas foram testados em um
+i7-16GB de RAM, possuindo 4 núcleos e 8 processadores lógicos
+Placa de vídeo NVIDIA Geforce GTX 1050 TI
+
+Simulados na plataforma: Oracle VM VirtualBox
+Sistema Operacional: Ubuntu
+Numero de processadores dedicados (a maquina): 8
